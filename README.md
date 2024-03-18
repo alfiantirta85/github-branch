@@ -1,2 +1,2 @@
 # github-branch
-Hello, i'm username from main branch
+Hello, i'm username from feature/a branch
